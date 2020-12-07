@@ -28,14 +28,24 @@ print(aFractionalNumber)
 print(aString)
 
 # Python has a very powerful type called a list that's written like this
+# Lists are also referred to as arrays - usually if someone is talking
+# about an array they imply it will be "indexed"
 
 aList = [1, 2, 3, 4]
 print(aList)
 
-# And a very powerful type called a dictionary
+# Here is indexing in action
+theThirdElement = aList[2] # Indexes (the position in the list) start at 0
+
+
+# There's another very powerful type called a dictionary.  Rather than
+# indexing with an integer you index with a "key"
 aDictionary = {
   "key1":  "value1",
   "key2":  "value2"
 }
 
 print(aDictionary)
+
+# Print just one value
+print(aDictionary['key2'])
