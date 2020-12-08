@@ -22,5 +22,6 @@ At this point it should become clear that there are a number of languages (Pytho
 - [ ] Functions in Python
 - [ ] Functions in Javascript
 - [ ] Algorithms
+- [ ] Client/Server
 - [ ] Webservers
 
