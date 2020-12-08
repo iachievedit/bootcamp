@@ -13,5 +13,14 @@ After digesting the Python code, try reading some Javascript
 - [Variables in Javascript](javascript/01_vars.js)
 - [Loops in Javascript](javascript/02_loops.js)
 
-And for a bonus, some [Swift](others/01_vars_and_loops.swift)
+And for a bonus, some [Swift](others/01_vars_and_loops.swift).
+
+At this point it should become clear that there are a number of languages (Python, Javascript, Swift, etc.) with different syntaxes, but the concepts are the same.
+
+## TODO
+
+- [ ] Functions in Python
+- [ ] Functions in Javascript
+- [ ] Algorithms
+- [ ] Webservers
 
